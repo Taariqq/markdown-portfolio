@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+You can find me online at ![github](https://github.com/taariqq)  ![facebook](https://facebook.com/taariqq)  ![twitter](https://twitter.com/taariqq)
